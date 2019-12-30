@@ -5,7 +5,7 @@ Many teenagers (especially in my area) suffer from multitudes of mental health p
 
 A user can express their feelings by typing into the program and receive prompts to help the AI gather information about the user. Suggestions are then displayed for the user, and are are meant to make the user feel better and/or help them cope with the stress that comes with being a student. 
 
-##### This project is in no way meant to diagnose, treat, or cure mental health ilnesses. It is only meant to help users cope with minor mental health issues. 
+#### This project is in no way meant to diagnose, treat, or cure mental health ilnesses. It is only meant to help users cope with minor mental health issues. 
 
 ## tools
 — language: python
