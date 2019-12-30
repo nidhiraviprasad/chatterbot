@@ -13,7 +13,7 @@ A user can express their feelings by typing into the program and receive prompts
 
 — language: python
 
-— libraries: tensorflow, tflearn, nltk, numpy
+— main libraries: tensorflow, tflearn, nltk
 
 
 
