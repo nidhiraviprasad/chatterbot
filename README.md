@@ -10,11 +10,15 @@ A user can express their feelings by typing into the program and receive prompts
 
 
 ## tools
+
 — language: python
+
 — libraries: tensorflow, tflearn, nltk, numpy
 
 
 
 ## future plans
+
 — make it an offline app with a nice GUI so people can use it whenever and wherever they want!
+
 — improve the accuracy (bring accuracy to at least 95%)
