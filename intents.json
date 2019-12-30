@@ -1,0 +1,56 @@
+{"intents":[
+	{"tag": "greeting",
+	"patterns": ["Hello", "hi", "how art thou", "howdy", "Good morning", "g'day mate", "Who's there?"],
+	"responses": ["Hello!", "Hey", "What's crackalackin'", "Good to see you!", "How can I help you?"],
+	"context_set": ""
+	},
+
+	{"tag": "mind",
+	"patterns": ["stress", "anxiety", "depression", "pressure"],
+	"responses": ["What's going through your head right now?", "What are you feeling (ex. sad, lonely, mad, tired)?", "Would you like to talk about it?", "Wanna talk about it?"],
+	"context_set": ""
+	},
+
+	{"tag": "feelings1",
+	"patterns": ["mad", "angry", "irritated", "annoyed", "pissed"],
+	"responses": ["Try this breathing exercise 3 times: breathe in for 4 counts, hold for 4 counts, and breathe out for 8 counts. How do you feel now?", "Go for a short run to clear your head", "Try lighting a candle (I would recommend mint, lavender, sage, or vanilla)!", "Try listening to beach or rainforest sounds!", "Take a power nap!"],
+	"context_set": ""
+	},
+
+	{"tag": "feelings2",
+	"patterns": ["sad", "alone", "lonely", "tired"],
+	"responses": ["Try reading a book", "Make some tea (my favorites are chamomile or mint)!", "Write about how you feel", "Listen to upbeat music (my personal recommendations are: Big Plans - Why Don't We, High Hopes - Panic! At The Disco, Roxanne - Arizona Zervas, Liar - Camila Cabello)", "Go on a walk and enjoy nature!", "Try lighting a candle (I like citrus, jasmine, or eucalyptus)!"],
+	"context_set": ""
+	},
+
+	{"tag": "physical",
+	"patterns": ["dizzy", "shaking", "jitters", "faint", "hungry", "breathing"],
+	"responses": ["Try this breathing exercise 3 times: breathe in for 4 counts, hold for 4 counts, and breathe out for 8 counts. How do you feel now?", "Go for a short run and get your jitters out. How do you feel now?", "Try doing 10 jumping jacks. How do you feel?", "And how do you feel emotionally?"],
+	"context_set": ""
+	},
+
+	{"tag": "help",
+	"patterns": ["I need help", "I need someone", "suicidal", "kill myself", "die"],
+	"responses": ["Would you like to call the National Suicide Prevention Hotline?", "Would you like to call a trusted adult?", "Please call a trusted adult or the National Suicide Prevention Hotline"],
+	"context_set": ""
+	},
+
+	{"tag": "thankyou",
+	"patterns": ["ok thank you", "this was helpful", "Thanks", "Thank you"],
+	"responses": ["Glad I was able to help!", "You're welcome", "My pleasure", "Anytime", "No problem! Would you like help with anything else?"],
+	"context_set": ""
+	},
+
+	{"tag": "happy",
+	"patterns": ["better", "good", "happy"],
+	"responses": ["Glad that helped!", "Glad you feel better!"],
+	"context_set": ""
+	},
+
+	{"tag": "bye",
+	"patterns": ["Bye", "See you later", "Goodbye"],
+	"responses": ["Goodbye!", "Hope you feel better!", "Bye! Have a nice day!", "I'm always here for you if you need me!"],
+	"context_set": ""
+	}
+
+]}
